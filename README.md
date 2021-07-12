@@ -1,2 +1,2 @@
-# News-Tribe
+# My-Tribe
 Get Latest News
